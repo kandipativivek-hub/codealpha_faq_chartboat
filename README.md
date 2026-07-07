@@ -19,3 +19,6 @@ A chatbot that answers frequently asked questions using NLP techniques.
 - Chat Interface
 
 ## 🌐 Open Application
+
+
+https://codealphafaqchartboat-jgpxi828p46j2pzs45qjwj.streamlit.app/
